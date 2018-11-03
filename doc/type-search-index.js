@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"kr.ac.smu.day01","l":"Sum"}]
